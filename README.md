@@ -6,10 +6,9 @@ A simple Flutter app to calculate Body Mass Index (BMI) based on user input (hei
 - Categorize results (Underweight, Normal, Overweight, Obese)
 - Simple and clean UI
 - Real-time calculation
-## ScreenShots
-![slash screen](lib/Screenshots/Splash_Screen.png)
-![Home Screen](lib/Screenshots/Home_Screen.png)
-![Result Screen](lib/Screenshots/Result_Screen.png)
+
+## screenshots
+![splash_screen](Screenshots/Splash_screen.png)
 
 ## BMI Formula
 [
