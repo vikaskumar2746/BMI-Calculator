@@ -9,8 +9,8 @@ A simple Flutter app to calculate Body Mass Index (BMI) based on user input (hei
 
 ## screenshots
 ![splash_screen](Screenshots/Splash_Screen.png)
-![home screen](Screenshots/home_screen.png)
-![result screen](Screenshots/result_screen.png)
+![home screen](Screenshots/Home_screen.png)
+![result screen](Screenshots/Result_screen.png)
 
 ## BMI Formula
 [
